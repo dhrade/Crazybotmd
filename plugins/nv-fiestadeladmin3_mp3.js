@@ -1,3 +1,4 @@
+/*
 import util from 'util'
 import path from 'path'
 
@@ -14,4 +15,5 @@ handler.command = new RegExp
 handler.fail = null
 handler.exp = 100
 export default handler
+*/
 
