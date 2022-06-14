@@ -72,8 +72,8 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > pkg install ffmpeg -y
 > pkg install imagemagick -y
 > pkg install yarn
-> git clone https://github.com/BotSatMagic/Gatabotmd
-> cd Gatabotmd
+> git clone https://github.com//dhrade/Crazybotmd.git
+> cd Crazybotmd
 > npm install
 > yarn install 
 > npm install
@@ -91,7 +91,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > cd 
-> cd Gatabotmd
+> cd Crazybotmd
 > npm start
 ```
 ----
@@ -100,7 +100,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > cd 
-> cd Gatabotmd
+> cd Crazybotmd
 > rm -rf session.data.json
 > npm start
 ```
