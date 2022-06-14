@@ -1,3 +1,4 @@
+/*
 let media = './media/menus/Menu4paypal.jpg'
 let handler = async (m, { conn, command }) => {
 let str = `
@@ -19,3 +20,4 @@ conn.sendHydrated(m.chat, str, wm, media, 'https://paypal.me/OficialGD', 'ğŸ ğ
 handler.command = /^dona(te|si)|donar|apoyar|paypal|donating$/i
 handler.exp = 80
 export default handler
+*/
