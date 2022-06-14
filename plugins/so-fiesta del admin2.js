@@ -1,3 +1,4 @@
+/*
 import util from 'util'
 import path from 'path'
 
@@ -12,4 +13,5 @@ ptt: true
 handler.customPrefix = /fiesta del admin2|fiesta del admin 2|fiestadeladmin2/i 
 handler.command = new RegExp
 export default handler
+*/
 
