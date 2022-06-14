@@ -1,3 +1,4 @@
+/*
 import util from 'util'
 import path from 'path'
 
@@ -12,4 +13,5 @@ ptt: true
 handler.customPrefix = /sexo|Sexo|Hora de sexo|hora de sexo/
 handler.command = new RegExp
 export default handler
+*/
 
