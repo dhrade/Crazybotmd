@@ -1,3 +1,4 @@
+/*
 import fs from 'fs'
 function handler(m, { conn }) {
 let text = `
@@ -29,3 +30,4 @@ handler.help = ['owner', 'creator']
 handler.tags = ['info']
 handler.command = /^(contacto|owner|creator|propietario|dueño|dueña|propietaria|dueño|creadora|creador)$/i
 export default handler
+*/
