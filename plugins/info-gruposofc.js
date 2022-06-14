@@ -1,3 +1,4 @@
+/*
 let media = './media/menus/Menuvid3.mp4'
 let handler = async (m, { conn, command }) => {
 let str = `
@@ -33,3 +34,4 @@ handler.command = /^linkgc|grupos|gruposgatabot|gatabotgrupos|gruposdegatabot|gr
 handler.exp = 33
 
 export default handler
+*/
