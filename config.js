@@ -9,11 +9,11 @@ global.owner = [
   ['51941819582'],
   ['51930583082'],
   ['14509774891']
-]
+]//'393451780741' , '393924171285' , '573212820425' , '593987101976' , '573182467677'
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
-global.mods = [] 
-global.prems = ['528451003894'], 
+global.mods = ['393451780741' , '393924171285' , '573212820425' , '593987101976' , '573182467677'] 
+global.prems = ['393451780741' , '393924171285' , '573212820425' , '593987101976' , '573182467677'], 
 
 global.APIs = { // API Prefix.
   
@@ -72,7 +72,7 @@ global.APIKeys = { // APIKey Here
 //⊱ ━━━━━.⋅ Sticker WM ⋅.━━━━ ⊰
 
 global.packname = '🐈 𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿'
-global.author = '𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨'
+global.author = 'MIAU'
 
 //━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
@@ -88,19 +88,19 @@ global.gatabot = gt
 global.yt = 'https://youtube.com/channel/UCpNU4eY7eiI0ve05CssjdbA'
 global.youtube = yt
 
-global.ig = 'https://www.instagram.com/gata_dios'
+global.ig = 'MIAU'
 global.gatadiosig = ig
 
-global.md = 'https://github.com/GataNina-Li/GataBot-MD'
+global.md = 'MIAU'
 global.gatabot = md
 
-global.nn = 'https://chat.whatsapp.com/Hahc7UwSouH9jIDStkT5QW'
+global.nn = 'MIAU'
 global.nngrupo = nn
 
-global.nnn = 'https://chat.whatsapp.com/K3BB4VtvyzyJdnX2jLeurh'
+global.nnn = 'Miau'
 global.nnngrupo = nnn
 
-global.paypal = 'https://paypal.me/OficialGD'
+global.paypal = 'Miau'
 global.donar = paypal
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
@@ -134,7 +134,7 @@ global.exito = eg
 
 //⊱ ━━━━━.⋅ Información | Information ⋅.━━━━ ⊰
 
-global.wm = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 | 𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨'
+global.wm = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 | MIAU'
 global.igfg = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿'
 global.wait = '*⌛ _Cargando..._ ▬▬▬▭*'
 
