@@ -91,7 +91,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > cd 
-> cd GataBot-MD
+> cd Gatabotmd
 > npm start
 ```
 ----
@@ -100,7 +100,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > cd 
-> cd GataBot-MD
+> cd Gatabotmd
 > rm -rf session.data.json
 > npm start
 ```
