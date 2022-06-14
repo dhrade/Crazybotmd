@@ -98,13 +98,8 @@ let menu = `
 
 ╭━〔 𝙄𝙉𝙁𝙊𝙍𝙈𝘼𝘾𝙄𝙊𝙉 | 𝙄𝙉𝙁𝙊 𝙈𝙀𝙉𝙐 〕━⬣
 ┃┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
-┃💫➺ _${usedPrefix}cuentasgatabot | cuentasgb_
-┃💫➺ _${usedPrefix}gruposgb | grupos | groupgb_
-┃💫➺ _${usedPrefix}donar | donate_
-┃💫➺ _${usedPrefix}listagrupos | grouplist_
 ┃💫➺ _${usedPrefix}estado | heygata | status_
 ┃💫➺ _${usedPrefix}infogata | infobot_
-┃💫➺ _${usedPrefix}creadora | owner_
 ┃💫➺ _${usedPrefix}velocidad | ping_
 ┃💫➺ _Bot_ 
 ╰━━━━━━━━━━━━━━━━━━━⬣`.trim()
