@@ -72,8 +72,8 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > pkg install ffmpeg -y
 > pkg install imagemagick -y
 > pkg install yarn
-> git clone https://github.com/GataNina-Li/GataBot-MD
-> cd GataBot-MD
+> git clone https://github.com/BotSatMagic/Gatabotmd
+> cd Gatabotmd
 > npm install
 > yarn install 
 > npm install
