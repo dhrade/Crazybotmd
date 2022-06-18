@@ -4,16 +4,15 @@ import { fileURLToPath } from 'url'
 
 //⊱ ━━━━━.⋅ Añada los numeros a ser Propietario/a | Add the numbers to be Owner ⋅.━━━━ ⊰
 global.owner = [
-  ['593993684821', 'GataBot-MD 💖🐈', true],
+  ['34633653763', 'GataBot-MD 💖🐈', true],
   ['593968585383'],
-  ['51941819582'],
-  ['51930583082'],
-  ['14509774891']
-]//'393451780741' , '393924171285' , '573212820425' , '593987101976' , '573182467677'
+  ['34608111139'],
+  
+]//'34633653763' , '34608111139' ,  '593987101976' 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
-global.mods = ['393451780741' , '393924171285' , '573212820425' , '593987101976' , '573182467677'] 
-global.prems = ['393451780741' , '393924171285' , '573212820425' , '593987101976' , '573182467677'], 
+global.mods = ['34633653763' , '34608111139' , '593987101976'] 
+global.prems = ['34633653763' , '34608111139' , '593987101976'], 
 
 global.APIs = { // API Prefix.
   
@@ -71,8 +70,8 @@ global.APIKeys = { // APIKey Here
 
 //⊱ ━━━━━.⋅ Sticker WM ⋅.━━━━ ⊰
 
-global.packname = '🐈 𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿'
-global.author = 'MIAU'
+global.packname = '🐈 Gata𝘽𝙤𝙩-𝙈𝘿'
+global.author = 'HAHAHA'
 
 //━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
@@ -82,25 +81,25 @@ global.author = 'MIAU'
 global.vs = '1.1.1'
 global.version = vs
 
-global.gt = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿'
+global.gt = 'Crazy𝘽𝙤𝙩-𝙈𝘿'
 global.gatabot = gt
 
-global.yt = 'https://youtube.com/channel/UCpNU4eY7eiI0ve05CssjdbA'
+global.yt = 'HAHAHA'
 global.youtube = yt
 
-global.ig = 'MIAU'
+global.ig = 'HAHAHAHA'
 global.gatadiosig = ig
 
-global.md = 'MIAU'
+global.md = 'HAHAHA'
 global.gatabot = md
 
-global.nn = 'MIAU'
+global.nn = 'HAHAHA'
 global.nngrupo = nn
 
-global.nnn = 'Miau'
+global.nnn = 'HAHAHA'
 global.nnngrupo = nnn
 
-global.paypal = 'Miau'
+global.paypal = 'HAHAHAHA'
 global.donar = paypal
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
@@ -134,8 +133,8 @@ global.exito = eg
 
 //⊱ ━━━━━.⋅ Información | Information ⋅.━━━━ ⊰
 
-global.wm = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 | MIAU'
-global.igfg = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿'
+global.wm = 'Crazy𝘽𝙤𝙩-𝙈𝘿 | HAHAHA'
+global.igfg = 'Crazy𝘽𝙤𝙩-𝙈𝘿'
 global.wait = '*⌛ _Cargando..._ ▬▬▬▭*'
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
